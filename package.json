@@ -1,0 +1,22 @@
+{
+  "name": "t-database",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FacuEtcheverryL/T-Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FacuEtcheverryL/T-Database/issues"
+  },
+  "homepage": "https://github.com/FacuEtcheverryL/T-Database#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
